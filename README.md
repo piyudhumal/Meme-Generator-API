@@ -1,1 +1,2 @@
-# Meme-Generator-API
+# Meme-generator-with-API
+Meme Generator
